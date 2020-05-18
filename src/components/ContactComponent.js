@@ -115,6 +115,7 @@ class Contact extends Component {
                             <a role="button" className="btn btn-success" href="mailto:confusion@food.net"><i className="fa fa-envelope-o"></i> Email</a>
                         </div>
                     </div>
+                <hr/>
                 </div>
                 <div className="row row-content">
                    <div className="col-12">
