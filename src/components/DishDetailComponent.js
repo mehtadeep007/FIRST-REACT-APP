@@ -108,7 +108,6 @@ export class CommentForm extends Component {
                     {list}
                 </ul>
                 <CommentForm dishId={dishId} addComment={addComment} />
-
             </div>
         )
         }
